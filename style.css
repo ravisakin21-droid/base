@@ -1,0 +1,12 @@
+.feita {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.destaque {
+    outline: 3px solid teal;
+}
+
+.oculto {
+    display: none;
+}
